@@ -1,89 +1,52 @@
 #EXTM3U
-#EXTINF:-1,iptvtools_9
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?ChannelsON
-#EXTINF:-1,iptvtools_10
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?ChannelsON
-#EXTINF:-1,iptvtools_11
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?ChannelsON
-#EXTINF:-1,iptvtools_12
-http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8?ChannelsON
-#EXTINF:-1,iptvtools_13
-http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8?ChannelsON
-#EXTINF:-1,iptvtools_28
-http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w1820117447.m3u8
-#EXTINF:-1,iptvtools_30
-http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
-#EXTINF:-1,iptvtools_35
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1,iptvtools_43
-http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
-#EXTINF:-1,iptvtools_46
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1,iptvtools_47
-http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:-1,iptvtools_51
-https://lh3.googleusercontent.com/WaSuILdhk8KEkKs8Uh_TuoAd0eB4PHeUua7lZTT_ASeF2P2maPWxKHzBOmbwLD2G9N4
-#EXTINF:-1,iptvtools_59
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1,iptvtools_62
-http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?ChannelsON
-#EXTINF:-1,iptvtools_66
-http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
-#EXTINF:-1,iptvtools_67
-http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?ChannelsON
-#EXTINF:-1,iptvtools_68
-http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
-#EXTINF:-1,iptvtools_72
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b1296000.m3u8
-#EXTINF:-1,iptvtools_78
-http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
-#EXTINF:-1,iptvtools_84
-http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
-#EXTINF:-1,iptvtools_86
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
-#EXTINF:-1,iptvtools_103
-http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?ChannelsON
-#EXTINF:-1,iptvtools_119
-http://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/chunklist_w653587283.m3u8
-#EXTINF:-1,iptvtools_120
-http://live.hunterfm.com/live
-#EXTINF:-1,iptvtools_134
-http://servidor28.brlogic.com:8336/live
-#EXTINF:-1,iptvtools_135
-http://centova.nardele.com.br:4343/stream
-#EXTINF:-1,iptvtools_138
-http://s23.hstbr.net:8072/live
-#EXTINF:-1,iptvtools_139
-http://143.208.11.104:8064/stream
-#EXTINF:-1,iptvtools_140
-http://a1rj.streams.com.br:7801/sm
-#EXTINF:-1,iptvtools_141
-http://flow.emm.usp.br:8007/radiousp-128.mp3
-#EXTINF:-1,iptvtools_147
-http://servidor36.brlogic.com:8180/live
-#EXTINF:-1,iptvtools_148
-http://noasrv.caster.fm:10156/live
-#EXTINF:-1,iptvtools_150
-http://transamerica.crossradio.com.br:9114/live.mp3
-#EXTINF:-1,iptvtools_151
-https://radio.truckers.fm/
-#EXTINF:-1,iptvtools_152
-https://stream.vagalume.fm/hls/14623883771774082279/index.m3u8
-#EXTINF:-1,iptvtools_153
-https://stream.vagalume.fm/hls/1470154922349875/index.m3u8
-#EXTINF:-1,iptvtools_154
-https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
-#EXTINF:-1,iptvtools_155
-https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
-#EXTINF:-1,iptvtools_159
-http://evpp.mm.uol.com.br/band/bandfm_sp/chunklist_w325491469.m3u8
-#EXTINF:-1,iptvtools_160
-http://audio.97fm.com.br/energia
-#EXTINF:-1,iptvtools_161
-https://20823.live.streamtheworld.com/JBFM.mp3?pname=TdPlayerApi&pversion=2.5&banners=&sbmid=e190d544-81ad-44ce-f431-bef4877dbe80
-#EXTINF:-1,iptvtools_162
-https://evpp.mm.uol.com.br/band/radiobandeirantes_sp/chunklist_w1799959325.m3u8
-#EXTINF:-1,iptvtools_163
-http://streaming13.hstbr.net:8072/live
-#EXTINF:-1,iptvtools_166
-https://18133.live.streamtheworld.com/FM93_SC
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/mundo.png" group-title="Variedades",WOW Tv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/mundo.png" group-title="Variedades",MULTIVISION
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://listaiptv.gratis/logos/imagens/mundo.png" group-title="Variedades",Viva Web TV 
+https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/mundo.png" group-title="Variedades",COM Brasil
+https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/mundo.png" group-title="Variedades",ITV 
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/mundo.png" group-title="Variedades",MKK Web TV 
+http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/mundo.png" group-title="Variedades",Canal 25 Jundiaí 
+https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/mundo.png" group-title="Variedades",TVMax 
+https://ssai-apac.ooyala.com/hls/delta/cflive-use/out/u/229ymkag04945/107829/xkbjFrZjE6C0XcIGJRrNEk-TEe8LBvv8/cn/9f9cf618b2464b86b7a7a074ab605613.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/mundo.png" group-title="Variedades",4FUN TV 
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/mundo.png" group-title="Variedades",  ACB TV 
+http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/mundo.png" group-title="Variedades", Uestv 
+http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/mundo.png" group-title="Variedades",PAT La Paz 
+http://192.99.38.174:1935/patbolivia/patlapaz/master.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/mundo.png" group-title="Variedades", PAT Santa Cruz 
+https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/mundo.png" group-title="Variedades",PAT Santa Cruz 
+https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/mundo.png" group-title="Variedades",Play TV
+http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/mundo.png" group-title="Variedades",Unicanal  
+http://45.55.127.106/live/unicanal_mid.m3u8
+#EXTINF:-1  tvg-logo="https://listaiptv.gratis/logos/imagens/cctv1.png" group-title="Variedades", CCTV
+https://cctvcnchwh5ca.v.cdn20.com/live/cctv1_2/index.m3u8?contentid=2820180516001
+#EXTINF:-1  tvg-logo="https://listaiptv.gratis/logos/imagens/mundo.png" group-title="Variedades", Mundo TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bnr_world.png" group-title="Variedades", NHK Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bbb21.png" group-title="Variedades", BBB 21 - Big Brother Brasil
+https://listaiptv.gratis/bbb21.mp4
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Jornal (PE)
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Jornal Caruaru (PE)
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Cidade Verde - (PI)
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Floresta (PA)
+https://srv-mc.sistemafloresta.com.br/sbt_live/index.m3u8?token=6f0315f72918701a1dec142039e2080e
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Serra Dourada - (GO)
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",SBT Interior SP
