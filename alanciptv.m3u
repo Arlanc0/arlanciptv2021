@@ -1,86 +1,4 @@
 #EXTM3U
-#EXTINF:-1,iptvtools_9
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?ChannelsON
-#EXTINF:-1,iptvtools_10
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?ChannelsON
-#EXTINF:-1,iptvtools_11
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?ChannelsON
-#EXTINF:-1,iptvtools_12
-http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8?ChannelsON
-#EXTINF:-1,iptvtools_13
-http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8?ChannelsON
-#EXTINF:-1,iptvtools_28
-http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w1820117447.m3u8
-#EXTINF:-1,iptvtools_30
-http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
-#EXTINF:-1,iptvtools_35
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1,iptvtools_43
-http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
-#EXTINF:-1,iptvtools_46
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1,iptvtools_47
-http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:-1,iptvtools_51
-https://lh3.googleusercontent.com/WaSuILdhk8KEkKs8Uh_TuoAd0eB4PHeUua7lZTT_ASeF2P2maPWxKHzBOmbwLD2G9N4
-#EXTINF:-1,iptvtools_59
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1,iptvtools_62
-http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?ChannelsON
-#EXTINF:-1,iptvtools_66
-http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
-#EXTINF:-1,iptvtools_67
-http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?ChannelsON
-#EXTINF:-1,iptvtools_68
-http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
-#EXTINF:-1,iptvtools_78
-http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
-#EXTINF:-1,iptvtools_84
-http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
-#EXTINF:-1,iptvtools_86
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
-#EXTINF:-1,iptvtools_119
-http://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/chunklist_w653587283.m3u8
-#EXTINF:-1,iptvtools_120
-http://live.hunterfm.com/live
-#EXTINF:-1,iptvtools_134
-http://servidor28.brlogic.com:8336/live
-#EXTINF:-1,iptvtools_135
-http://centova.nardele.com.br:4343/stream
-#EXTINF:-1,iptvtools_138
-http://s23.hstbr.net:8072/live
-#EXTINF:-1,iptvtools_139
-http://143.208.11.104:8064/stream
-#EXTINF:-1,iptvtools_140
-http://a1rj.streams.com.br:7801/sm
-#EXTINF:-1,iptvtools_141
-http://flow.emm.usp.br:8007/radiousp-128.mp3
-#EXTINF:-1,iptvtools_147
-http://servidor36.brlogic.com:8180/live
-#EXTINF:-1,iptvtools_148
-http://noasrv.caster.fm:10156/live
-#EXTINF:-1,iptvtools_150
-http://transamerica.crossradio.com.br:9114/live.mp3
-#EXTINF:-1,iptvtools_151
-https://radio.truckers.fm/
-#EXTINF:-1,iptvtools_152
-https://stream.vagalume.fm/hls/14623883771774082279/index.m3u8
-#EXTINF:-1,iptvtools_153
-https://stream.vagalume.fm/hls/1470154922349875/index.m3u8
-#EXTINF:-1,iptvtools_154
-https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
-#EXTINF:-1,iptvtools_159
-http://evpp.mm.uol.com.br/band/bandfm_sp/chunklist_w325491469.m3u8
-#EXTINF:-1,iptvtools_160
-http://audio.97fm.com.br/energia
-#EXTINF:-1,iptvtools_161
-https://20823.live.streamtheworld.com/JBFM.mp3?pname=TdPlayerApi&pversion=2.5&banners=&sbmid=e190d544-81ad-44ce-f431-bef4877dbe80
-#EXTINF:-1,iptvtools_162
-https://evpp.mm.uol.com.br/band/radiobandeirantes_sp/chunklist_w1799959325.m3u8
-#EXTINF:-1,iptvtools_163
-http://streaming13.hstbr.net:8072/live
-#EXTINF:-1,iptvtools_166
-https://18133.live.streamtheworld.com/FM93_SC
 #EXTINF:-1 group-title="Variedades",Better Life
 http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/mundo.png" group-title="Variedades",WOW Tv
@@ -2459,3 +2377,29 @@ http://centova6.ciclanohost.com.br:9256/;
 http://noasrv.caster.fm:10136/stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/I5y8DaH.png" group-title="RADIOS",RADIO Princesa FM
 http://noasrv.caster.fm:10124/stream
+#EXTINF:-1 tvg-id="Adult Penthouse 1" tvg-name="Adult Penthouse 1" tvg-logo="https://www.bing.com/images/blob?bcid=Tr7SSxGfBeQCKw" group-title="Canais +18",
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/87439
+#EXTINF:-1 tvg-id="Playboy TV " tvg-name="Playboy TV " tvg-logo="https://i.pinimg.com/originals/de/11/0d/de110d65bb54c27f1c382b8c8f19963c.gif" group-title="Canais +18",
+http://svrhost.club/N743577/T4W91VWL8/63?tkn=1609377747
+#EXTINF:-1 tvg-id="XXX | Penthouse" tvg-name="XXX | Penthouse" tvg-logo="http://crawler.mdcgate.com/iptv/logo/21774.png" group-title="Canais +18",
+http://boomtv.dyndns.tv:20018/tony-durr-origin/I9jvyD0LNx/2293
+#EXTINF:-1 tvg-id="XXX | SHEMALE TV 2" tvg-name="XXX | SHEMALE TV 2" tvg-logo="http://crawler.mdcgate.com/iptv/logo/347255.png" group-title="Canais +18",
+http://1581.f5.si:8000/renatorodriguez08/II4YWBJ/130052
+#EXTINF:-1 tvg-id="XXX | XYMIX" tvg-name="XXX | XYMIX" tvg-logo="http://crawler.mdcgate.com/iptv/logo/347255.png" group-title="Canais +18",
+http://boomtv.dyndns.tv:20018/tony-durr-origin/I9jvyD0LNx/2306
+#EXTINF:-1 tvg-id="XXX Hardcore" tvg-name="XXX Hardcore" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Canais +18",
+http://securetv.net:8080/kpu3EzyB2P/9803426888/47285
+#EXTINF:-1 tvg-id="Playboy HD *" tvg-name="Playboy HD *" tvg-logo="http://crawler.mdcgate.com/iptv/logo/86984.png" group-title="Canais +18",
+http://svrhost.club/N743577/T4W91VWL8/11002?tkn=1610415472
+#EXTINF:-1 tvg-id="XXX | SEXT & SENSO" tvg-name="XXX | SEXT & SENSO" tvg-logo="http://crawler.mdcgate.com/iptv/logo/593067.png" group-title="Canais +18",
+http://disfruta.net:80/LuisM/1XMclWoyg1/2800
+#EXTINF:-1 tvg-id="SEXY HOT HD ²" tvg-name="SEXY HOT HD ²" tvg-logo="http://crawler.mdcgate.com/iptv/logo/83487.png" group-title="Canais +18",
+http://pdsrv.io:80/gvlzqivy/eamF0010/61366
+#EXTINF:-1 tvg-id="(ADULT) DORCEL HD" tvg-name="(ADULT) DORCEL HD" tvg-logo="http://crawler.mdcgate.com/iptv/logo/271336.png" group-title="Canais +18",
+http://line.crystalott.net:80/pietro59/AXE2TJYQ9N/2022
+#EXTINF:-1 tvg-id="ADULT - SEXCO ANAL" tvg-name="ADULT - SEXCO ANAL" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="Canais +18",
+http://tvservice.pro:80/917115357074/vvtFG0lVOAuYlpE/190971
+#EXTINF:-1 tvg-id="XXL 18+" tvg-name="XXL 18+" tvg-logo="http://crawler.mdcgate.com/iptv/logo/55344.png" group-title="Canais +18",
+http://cdn.ottg.tv/8559/mpegts?username=petrechko1992&password=Keks1992&token=e6f07eac4916a383c21d948f9b3863f5&ch_id=362&req_host=pkjX3BL
+#EXTINF:-1 tvg-id="REDLIGHT_BY" tvg-name="REDLIGHT_BY" tvg-logo="http://profile.olg.ca/media/olglo/images/oll/logo_18plus_240x240.png" group-title="Canais +18",
+http://tv1.cs10.tv:80/leopoldo/leopoldo/2210
